@@ -1,0 +1,3 @@
+All scripts for R contain a hashtag (#) in front of the instructions that disable the installation protocol for installing Libraries, to save time. If you do not currently have these Libraries installed then delete the hashtag (#) and run the script to allow R to download the required Libraries for process data.
+
+These areas are identified by the characters "# install packages"
